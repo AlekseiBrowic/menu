@@ -1,0 +1,13 @@
+#burger-menu {
+  display: none;
+}
+
+/* Стили для бургер-кнопки (можно настроить по своему вкусу) */
+#burger-btn {
+  display: block;
+  background: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
